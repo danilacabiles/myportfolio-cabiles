@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("MWEBPinCodeRestoreDialogQuery_facebookRelayOperation",[],(function(t,n,r,o,a,i){a.exports="24877077111932801"}),null);
+__d("MWEBRestoreCannotRestoreDialog.entrypoint",["JSResourceForInteraction"],(function(t,n,r,o,a,i,l){"use strict";var e={getPreloadProps:function(){return{queries:{}}},root:r("JSResourceForInteraction")("MWEBRestoreCannotRestoreDialogForEntrypoint.react").__setRef("MWEBRestoreCannotRestoreDialog.entrypoint")};l.default=e}),98);

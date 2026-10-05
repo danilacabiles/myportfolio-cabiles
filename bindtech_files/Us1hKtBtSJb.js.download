@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("XCometProdashCometV2CommentsManagerControllerRouteBuilder",["jsRouteBuilder"],(function(t,n,r,o,a,i,l){var e=r("jsRouteBuilder")("/professional_dashboard/engagement/comments_manager/",Object.freeze({tab:"your_posts",filter:"all"}),void 0),s=e;l.default=s}),98);
+__d("XCometProdashCometV2MonetizationControllerRouteBuilder",["jsRouteBuilder"],(function(t,n,r,o,a,i,l){var e=r("jsRouteBuilder")("/professional_dashboard/monetization/",Object.freeze({}),void 0),s=e;l.default=s}),98);
+__d("XCometProfessionalDashboardModerationAssistControllerRouteBuilder",["jsRouteBuilder"],(function(t,n,r,o,a,i,l){var e=r("jsRouteBuilder")("/professional_dashboard/moderation_assist/",Object.freeze({}),void 0),s=e;l.default=s}),98);
